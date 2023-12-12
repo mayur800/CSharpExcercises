@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string[] names = new string[4];
-            names[0] = "Dilip";
+            names[0] = "D";
             names[1] = "Mahesh";
             names[2] = "Manish";
             names[3] = "Chintan";
