@@ -9,7 +9,7 @@ namespace ConsoleApp1
             string[] names = new string[4];
             names[0] = "Dilip";
             names[1] = "Mahesh";
-            names[2] = "Manish";
+            names[2] = "Rajesh";
             names[3] = "Chintan";
             
             foreach (string name in names) 
