@@ -12,7 +12,7 @@ namespace Reverse_Number
 //Expected Output:
 //Original Integer value: 123456
 //Reverse the digits of the said signed integer value:
-//654321
+//654322
         static void Main(string[] args)
         {
             int num1, reverse = 0, rem;
